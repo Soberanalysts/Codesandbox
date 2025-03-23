@@ -1,2 +1,2 @@
-# Codesandobx
+# Codesandbox
 Created with CodeSandbox
